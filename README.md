@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://s13.postimg.org/5a1vswjyf/cat.gif" alt="Download Git Users">
-  <img src="![greedy-cat](https://github.com/user-attachments/assets/53db248e-6429-4a04-b063-5e8d1f60cd61)
-" alt="Download Git Users">
+<p align="center"> 
+  <img src="https://github.com/user-attachments/assets/53db248e-6429-4a04-b063-5e8d1f60cd61" alt="Download Git Users">
 </p>
 
 ABOUT

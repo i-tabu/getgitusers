@@ -4,7 +4,7 @@
 
 ABOUT
 ============
-Very quick script, to seach github users according to their language, location and download inside a MySQL table
+Very quick script, to seach github users according to their language, location and download inside a MySQL table.
 
 INSTALLATION
 ============
